@@ -1,1 +1,1 @@
-# kiosk_jewelry
+# kiosk_accessory
